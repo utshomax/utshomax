@@ -1,6 +1,8 @@
 **Had to reset my profile due to 2FA**
 
-Will update all repos soon.
+Find previous public repos : [utshomax](https://github.com/utshomax-zz)
+
+Will update soon.
 
 - 👋 Hi, I’m @utsho
 - 👀 I’m interested in ...
