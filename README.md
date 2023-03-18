@@ -1,6 +1,6 @@
 ### **Had to reset my profile due to 2FA**
 
-Find previous public repos : [utshomax](https://github.com/utshomax-zz)
+Find previous public repos : [utshomax-zz](https://github.com/utshomax-zz)
 
 Will update soon.
 
