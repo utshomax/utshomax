@@ -12,6 +12,6 @@ Will update soon.
 ### Hello world 👋
 ⚡ Fun fact: The first computer “bug” was an actual real-life bug!
     </td>
-    <td valign="top"><img src="https://my-stats-iota.vercel.app/api/top-langs?username=utshomax&exclude_repo=DPS-RP&layout=donut"/></td>
+    <td valign="top"><img src="https://my-stats-iota.vercel.app/api/top-langs?username=utshomax&exclude_repo=DPS-RP,eduback&layout=donut"/></td>
   </tr>
 </table>
